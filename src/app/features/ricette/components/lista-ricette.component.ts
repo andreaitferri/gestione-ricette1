@@ -8,10 +8,8 @@ import { FormsModule, NgModel} from '@angular/forms';
   selector: 'gr-lista-ricette',
   template: `
 
-     <!-- Secondo div, layout orizzontale per le due colonne -->
      <div fxLayout="row">
 
-        <!-- Prima colonna, 22% -->
         <div fxFlex="100" fxFlex.gt-sm="22" class="custom-col" style="padding:5px; text-align:center;">
         <h2>Filtra</h2>
         <div class="filter-container">
@@ -22,7 +20,6 @@ import { FormsModule, NgModel} from '@angular/forms';
             </div>
         </div>
 
-        <!-- Seconda colonna, 88%  -->
         <div fxFlex="100" fxFlex.gt-sm="88" class="custom-col" style="padding:5px;">
           <h2>Ricette</h2>
           <p>L'elenco delle ricette disponibili</p>
