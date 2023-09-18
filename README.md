@@ -1,6 +1,6 @@
 # GestioneRicette
 
-Per far girare la challange, bisogna lanciare il mock server, tramite il comando
+Per far girare la challenge, bisogna lanciare il mock server, tramite il comando
 
 npm run server
 
