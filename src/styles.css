@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+#container {width:90%; margin:20px auto;height:50px;}
+
+#header  { text-align:center; height:50px !important; }
+#header h3 {font-size:25px; color:#000; }
+
+#footer { text-align:center; height:auto; margin-top:60px;margin-bottom:150px;}
+#footer h3 { font-size:23px;}
+

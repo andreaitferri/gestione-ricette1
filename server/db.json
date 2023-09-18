@@ -1,0 +1,258 @@
+{
+  "ricette": [
+    {
+      "id": 1,
+      "titolo": "Pasta al pomodoro",
+      "descrizione": "Un semplice piatto di pasta con salsa di pomodoro.",
+      "ingredienti": [
+        {
+          "nome": "Pasta",
+          "quantita": "100g"
+        },
+        {
+          "nome": "Pomodori",
+          "quantita": "200g"
+        },
+        {
+          "nome": "Aglio",
+          "quantita": "1 spicchio"
+        },
+        {
+          "nome": "Olio d'oliva",
+          "quantita": "2 cucchiai"
+        }
+      ],
+      "dataCreazione": "2023-09-19T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "titolo": "Tiramisù",
+      "descrizione": "Un classico dolce italiano a base di caffè e mascarpone.",
+      "ingredienti": [
+        {
+          "nome": "Savoiardi",
+          "quantita": "200g"
+        },
+        {
+          "nome": "Mascarpone",
+          "quantita": "250g"
+        },
+        {
+          "nome": "Caffè",
+          "quantita": "1 tazza"
+        },
+        {
+          "nome": "Zucchero",
+          "quantita": "50g"
+        },
+        {
+          "nome": "Cacao in polvere",
+          "quantita": "Per guarnire"
+        }
+      ],
+      "dataCreazione": "2023-09-20T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "titolo": "Risotto alla milanese",
+      "descrizione": "Risotto cremoso con zafferano e Parmigiano.",
+      "ingredienti": [
+        {
+          "nome": "Riso Arborio",
+          "quantita": "200g"
+        },
+        {
+          "nome": "Brodo di carne",
+          "quantita": "500ml"
+        },
+        {
+          "nome": "Zafferano",
+          "quantita": "1 bustina"
+        },
+        {
+          "nome": "Parmigiano Reggiano",
+          "quantita": "50g"
+        },
+        {
+          "nome": "Burro",
+          "quantita": "30g"
+        }
+      ],
+      "dataCreazione": "2023-09-21T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "titolo": "Pesto alla genovese",
+      "descrizione": "Una ricetta tradizionale della cucina ligure a base di basilico e pinoli.",
+      "ingredienti": [
+        {
+          "nome": "Basilico fresco",
+          "quantita": "50g"
+        },
+        {
+          "nome": "Pinoli",
+          "quantita": "30g"
+        },
+        {
+          "nome": "Aglio",
+          "quantita": "1 spicchio"
+        },
+        {
+          "nome": "Olio d'oliva",
+          "quantita": "100ml"
+        },
+        {
+          "nome": "Parmigiano Reggiano",
+          "quantita": "50g"
+        },
+        {
+          "nome": "Pecorino",
+          "quantita": "30g"
+        }
+      ],
+      "dataCreazione": "2023-09-22T00:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "titolo": "Carbonara",
+      "descrizione": "Un piatto classico romano a base di uova, guanciale e pecorino.",
+      "ingredienti": [
+        {
+          "nome": "Pasta (spaghetti)",
+          "quantita": "200g"
+        },
+        {
+          "nome": "Uova",
+          "quantita": "2"
+        },
+        {
+          "nome": "Guanciale",
+          "quantita": "100g"
+        },
+        {
+          "nome": "Pecorino Romano",
+          "quantita": "50g"
+        },
+        {
+          "nome": "Pepe nero",
+          "quantita": "Q.b."
+        }
+      ],
+      "dataCreazione": "2023-09-23T00:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "titolo": "Lasagne alla bolognese",
+      "descrizione": "Un piatto ricco e saporito con strati di pasta, ragù e besciamella.",
+      "ingredienti": [
+        {
+          "nome": "Sfoglie di lasagna",
+          "quantita": "12"
+        },
+        {
+          "nome": "Ragù alla bolognese",
+          "quantita": "500g"
+        },
+        {
+          "nome": "Besciamella",
+          "quantita": "500ml"
+        },
+        {
+          "nome": "Parmigiano Reggiano",
+          "quantita": "100g"
+        }
+      ],
+      "dataCreazione": "2023-09-24T00:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "titolo": "Panna cotta",
+      "descrizione": "Un dessert al cucchiaio morbido e delicato.",
+      "ingredienti": [
+        {
+          "nome": "Panna fresca",
+          "quantita": "500ml"
+        },
+        {
+          "nome": "Zucchero",
+          "quantita": "100g"
+        },
+        {
+          "nome": "Gelatina in fogli",
+          "quantita": "10g"
+        },
+        {
+          "nome": "Vaniglia",
+          "quantita": "1 bacca"
+        }
+      ],
+      "dataCreazione": "2023-09-25T00:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "titolo": "Pizza margherita",
+      "descrizione": "La pizza classica con pomodoro, mozzarella e basilico.",
+      "ingredienti": [
+        {
+          "nome": "Impasto per pizza",
+          "quantita": "200g"
+        },
+        {
+          "nome": "Pomodoro",
+          "quantita": "150g"
+        },
+        {
+          "nome": "Mozzarella",
+          "quantita": "100g"
+        },
+        {
+          "nome": "Basilico fresco",
+          "quantita": "Q.b."
+        },
+        {
+          "nome": "Olio d'oliva",
+          "quantita": "2 cucchiai"
+        }
+      ],
+      "dataCreazione": "2023-09-26T00:00:00.000Z"
+    }
+  ],
+  "ingredienti": [
+    {
+      "nome": "Pasta",
+      "quantita": "100g"
+    },
+    {
+      "nome": "Pomodori",
+      "quantita": "200g"
+    },
+    {
+      "nome": "Aglio",
+      "quantita": "1 spicchio"
+    },
+    {
+      "nome": "Olio d'oliva",
+      "quantita": "2 cucchiai"
+    },
+    {
+      "nome": "Savoiardi",
+      "quantita": "200g"
+    },
+    {
+      "nome": "Mascarpone",
+      "quantita": "250g"
+    },
+    {
+      "nome": "Caffè",
+      "quantita": "1 tazza"
+    },
+    {
+      "nome": "Zucchero",
+      "quantita": "50g"
+    },
+    {
+      "nome": "Cacao in polvere",
+      "quantita": "200g"
+    }
+  ]
+}
